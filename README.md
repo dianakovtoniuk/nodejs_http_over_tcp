@@ -1,4 +1,4 @@
-# Node.js HTTP over TCP
+# Node.js HTTP and Raw TCP Requests
 
 Examples of working with HTTP in Node.js on two levels: with the built-in `http` module, and by hand over a raw TCP socket with the `net` module. The raw version builds the HTTP request byte by byte to show what actually goes over the wire.
 
